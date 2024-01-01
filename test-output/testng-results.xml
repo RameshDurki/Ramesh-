@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Application opened]]>
+    </line>
+    <line>
+      <![CDATA[Application opened]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-01-01T09:59:41Z" name="Suite" finished-at="2024-01-01T10:00:07Z" duration-ms="25251">
+    <groups>
+    </groups>
+    <test started-at="2024-01-01T09:59:41Z" name="Test" finished-at="2024-01-01T10:00:07Z" duration-ms="25251">
+      <class name="com.hrms.testscripts.TC001">
+        <test-method signature="tc001()[pri:0, instance:com.hrms.testscripts.TC001@3b2da18f]" started-at="2024-01-01T15:29:41Z" name="tc001" finished-at="2024-01-01T15:29:49Z" duration-ms="7246" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Application opened]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc001 -->
+      </class> <!-- com.hrms.testscripts.TC001 -->
+      <class name="com.hrms.testscripts.TC002">
+        <test-method signature="tc002()[pri:0, instance:com.hrms.testscripts.TC002@2d9d4f9d]" started-at="2024-01-01T15:29:49Z" name="tc002" finished-at="2024-01-01T15:30:07Z" duration-ms="17966" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Application opened]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc002 -->
+      </class> <!-- com.hrms.testscripts.TC002 -->
+      <class name="testngexamples.Exp_Testng">
+        <test-method signature="login()[pri:0, instance:testngexamples.Exp_Testng@5906ebcb]" started-at="2024-01-01T15:29:41Z" name="login" finished-at="2024-01-01T15:29:41Z" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="logout()[pri:0, instance:testngexamples.Exp_Testng@5906ebcb]" started-at="2024-01-01T15:29:41Z" name="logout" finished-at="2024-01-01T15:29:41Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- testngexamples.Exp_Testng -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

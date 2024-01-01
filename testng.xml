@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="testngexamples.Exp_Testng"/>
+      <class name="com.hrms.testscripts.TC001"/>
+      <class name="com.hrms.testscripts.TC002"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
